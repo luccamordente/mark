@@ -1,0 +1,12 @@
+= Mark
+
+A try to make easier to handle marking a picture as album cover, a new as emphasised, as well as mark products to show up in a banner.
+All Mark does is automatically handle a <tt>marked</tt> like boolean to make this possible.
+
+== Installation
+
+== Usage
+
+== Compatibility
+
+	The Badges Gem is built to work with Rails 3. Not tested in earlier versions, but should work too.
