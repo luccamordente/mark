@@ -4,6 +4,7 @@ ActiveRecord::Schema.define(:version => 0) do
     t.string  :subtitle
     t.string  :album
     t.boolean :cover
+    t.time    :last_marked_at
     t.timestamps
   end
 
