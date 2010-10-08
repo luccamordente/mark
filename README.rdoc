@@ -9,4 +9,4 @@ All Mark does is automatically handle a <tt>marked</tt> like boolean to make thi
 
 == Compatibility
 
-	The Badges Gem is built to work with Rails 3. Not tested in earlier versions, but should work too.
+Mark was built to work with Rails 3. Not tested in earlier versions, but should work too.
